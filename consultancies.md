@@ -35,6 +35,9 @@ A template for you to use:
 
 ## Firms
 
+- [Lost Horse](https://losthorse.design/)
+    - Human-centered design meets thoughtful software development. We help companies build digital products that actually work for people—without the usual waste, frustration, or guesswork. Whether you’re launching, refining, or rescuing a product, we bring clarity and momentum to the process.
+    - US-based.
 - [33 Teams](https://www.33teams.com/)
      - _Whether you are creating your first product, scaling to the next level, or need to modernize or add capability to legacy apps, we can help._ (from the home page)
      - [Drew McManus](https://www.33teams.com/contact)
